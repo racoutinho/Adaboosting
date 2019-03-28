@@ -1,4 +1,4 @@
-## AdaBoosting implementation with python
+## AdaBoosting algorithm implementation with python
 
 This jupyter notebook demonstrate a implementation of AdaBoosting algorithm developed during the master of data science course.
 
